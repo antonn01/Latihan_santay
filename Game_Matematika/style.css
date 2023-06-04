@@ -1,0 +1,16 @@
+  #question {
+    font-size: 24px;
+    margin-bottom: 25px;
+  }
+  #answer {
+    font-size: 24px;
+    width: 100px;
+  }
+  #result {
+    font-size: 24px;
+    margin-top: 50px;
+  }
+  #next {
+    font-size: 24px;
+    display: none;
+  }
